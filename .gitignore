@@ -1,0 +1,45 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# iOS
+ios/Flutter/ephemeral/
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+*.mode1v3
+*.mode2v3
+*.moved-to-trash
+*.pbxuser
+*.perspectivev3
+xcuserdata/
+
+# Android
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+*.swp
+.fvm/flutter_sdk
+
+# Env / Secrets
+*.env
+.env.*
+
+.metadata
+pubspec.lock
+ios/Runner.xcworkspace/
+macos/Runner.xcworkspace/
